@@ -13,7 +13,7 @@ Saya seorang pengembang web yang fokus pada **Laravel, React, dan Tailwind CSS**
 ## 🔹 Demo Portofolio  
 Klik gambar di bawah ini untuk melihat portofolio saya secara langsung!  
 
-[![Portfolio](preview-web.png)](ziranlogic04.netlify.app)  
+[![Portfolio](preview-web.png)](https://ziranlogic04.netlify.app/)  
 
 ## 🔹 Kontak Saya  
 📩 Email: [zirandragneel@gmail.com](mailto:zirandragneel@gmail.com)  
